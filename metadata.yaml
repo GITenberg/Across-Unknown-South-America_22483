@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4851
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22483#Across-Unknown-South-America
 gutenberg_bookshelf: South America
 gutenberg_issued: '2007-08-31'
 gutenberg_type: Text
